@@ -1,7 +1,7 @@
 # FSE-2011-Feature-Mapping
 This repository contains information related to the tool Feature Mapping
 <p>
-The tool was originally presented in this [Paper](http://dl.acm.org/citation.cfm?doid=2025113.2025190) at International Conference on Software Engineering, 2011.
+The tool was originally presented in this [Paper](http://ieeexplore.ieee.org.prox.lib.ncsu.edu/stamp/stamp.jsp?tp=&arnumber=6227068) at International Conference on Software Engineering, 2012.
 <p>
 This repository is <b><i>NOT</b></i> the original repository for this tool.<br>
 <p>
