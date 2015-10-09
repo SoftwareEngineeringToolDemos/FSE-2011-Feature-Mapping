@@ -1,4 +1,4 @@
-# FSE-2011-Feature-Mapping
+# ICSE-2012-Feature-Mapping
 This repository contains information related to the tool Feature Mapping
 <p>
 The tool was originally presented in this [Paper](http://ieeexplore.ieee.org.prox.lib.ncsu.edu/stamp/stamp.jsp?tp=&arnumber=6227068) at International Conference on Software Engineering, 2012.
