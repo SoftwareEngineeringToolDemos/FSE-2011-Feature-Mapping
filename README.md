@@ -3,7 +3,7 @@ This repository contains information related to the tool Feature Mapping
 <p>
 The tool was originally presented in this [Paper](http://ieeexplore.ieee.org.prox.lib.ncsu.edu/stamp/stamp.jsp?tp=&arnumber=6227068) at International Conference on Software Engineering, 2012.
 <p>
-This repository <b><i>is NOT</b></i> the original repository for this tool.<br>
+This repository <b><i>is NOT</i></b> the original repository for this tool.<br>
 <p>
 The tool is not available for any external use and redistribution.<br>
 <p>
