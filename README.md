@@ -11,4 +11,4 @@ This repository <b><i>is NOT</i></b> the original repository for this tool.<br>
 
 The tool is not available for any external use and redistribution.<br>
 <p>
-This repository was constructed by [Bhargav Jhaveri](https://github.com/BhargavJhaveri/) under the supervision of [Dr. Emerson Murphy-Hill](https://github.com/CaptainEmerson).
+This repository was constructed by [Bhargav Jhaveri](https://github.com/BhargavJhaveri/) under the supervision of [Dr. Emerson Murphy-Hill](https://github.com/CaptainEmerson). Thanks to Maxime Ouellet, Ettore Merlo, Neset Sozen and Martin Gagnon for their help in establishing this repository.
