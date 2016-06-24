@@ -4,11 +4,9 @@ This repository contains information related to the tool Feature Mapping
 The tool was originally presented in this [Paper](http://ieeexplore.ieee.org.prox.lib.ncsu.edu/stamp/stamp.jsp?tp=&arnumber=6227068) at International Conference on Software Engineering, 2012.
 <p>
 This repository <b><i>is NOT</i></b> the original repository for this tool.<br>
-<p>
-* :x: Source code (not available) 
-* :x: The original tool (not available)
-* :x: The original video page (Not available)
-* :x: Virtual machine containing tool (Not available)
+* :x: Source code (not available)
+* :x: Executable tool (not available)
+* :x: Virtual machine containing tool (not available)
 <p>
 The tool is not available for any external use and redistribution.<br>
 <p>
